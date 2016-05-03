@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: No Scrum No Win - Rugby Sportswear
-datePublished: '2016-05-03T15:09:23.268Z'
-dateModified: '2016-05-03T14:47:43.698Z'
+datePublished: '2016-05-03T15:10:56.717Z'
+dateModified: '2016-05-03T15:10:56.096Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-no-scrum-no-win-rugby-sportswear.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-no-scrum-no-win-rugby-sportswear.md
-published: true
 url: no-scrum-no-win-rugby-sportswear/index.html
 _type: Article
 
