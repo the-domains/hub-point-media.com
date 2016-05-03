@@ -4,21 +4,21 @@
         <description><![CDATA[Hub Point Media]]></description>
         <link>http://hubpointmedia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 15:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 15:18:28 GMT</lastBuildDate>
         <atom:link href="http://hubpointmedia.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[European Gas Hub]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51fada73-4d4f-4665-b901-20c2fe3adae1.jpg">]]></description>
+            <link>http://hubpointmedia.com/european-gas-hub/index.html</link>
+            <guid isPermaLink="false">ea16dd24-78a6-40c8-bb77-82fd308cb41e</guid>
+            <pubDate>Tue, 03 May 2016 15:18:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf1c58f-027e-444e-9f8f-cc5888eb72b3.jpg">]]></description>
             <link>http://hubpointmedia.com/no-scrum-no-win-rugby-sportswear/index.html</link>
             <guid isPermaLink="false">f482ef9d-e032-437c-b8df-045f049f121e</guid>
             <pubDate>Tue, 03 May 2016 15:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Gas Hub]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51fada73-4d4f-4665-b901-20c2fe3adae1.jpg">]]></description>
-            <link>http://hubpointmedia.com/european-gas-hub/index.html</link>
-            <guid isPermaLink="false">ea16dd24-78a6-40c8-bb77-82fd308cb41e</guid>
-            <pubDate>Tue, 03 May 2016 14:44:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Global LNG Hub]]></title>
