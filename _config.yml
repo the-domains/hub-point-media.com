@@ -2,6 +2,7 @@ name: Hub Point Media
 favicon: null
 layout_spectrum: 0.17417
 typography_spectrum: 0.32701944513246417
+title: Something here....
 cta:
   domain: null
   bucket: null
