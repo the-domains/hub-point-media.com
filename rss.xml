@@ -4,8 +4,22 @@
         <description><![CDATA[Hub Point Media]]></description>
         <link>http://hubpointmedia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 14:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 14:44:43 GMT</lastBuildDate>
         <atom:link href="http://hubpointmedia.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[European Gas Hub]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51fada73-4d4f-4665-b901-20c2fe3adae1.jpg">]]></description>
+            <link>http://hubpointmedia.com/european-gas-hub/index.html</link>
+            <guid isPermaLink="false">ea16dd24-78a6-40c8-bb77-82fd308cb41e</guid>
+            <pubDate>Tue, 03 May 2016 14:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global LNG Hub]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f458c4f-02fd-43b1-af2f-f7540ac7846a.jpg">]]></description>
+            <link>http://hubpointmedia.com/global-lng-hub/index.html</link>
+            <guid isPermaLink="false">2e170fdd-ae67-4bd5-967e-2881f6567bb5</guid>
+            <pubDate>Tue, 03 May 2016 14:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Coal Hub]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a06f9396-e7c1-4df0-af58-0ab562e98ada.jpg" alt="The Coal Hub" title="">]]></description>
