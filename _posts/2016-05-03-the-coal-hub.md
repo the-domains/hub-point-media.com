@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Coal Hub
-datePublished: '2016-05-03T17:18:24.176Z'
-dateModified: '2016-05-03T15:16:58.778Z'
+datePublished: '2016-05-03T17:19:40.127Z'
+dateModified: '2016-05-03T17:18:30.956Z'
 title: ''
 author:
   - name: ''
