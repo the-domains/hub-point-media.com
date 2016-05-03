@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hub Point Media]]></title>
         <description><![CDATA[Hub Point Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://hubpointmedia.com/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 03 May 2016 14:44:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://hubpointmedia.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Coal Hub]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a06f9396-e7c1-4df0-af58-0ab562e98ada.jpg" alt="The Coal Hub" title="">]]></description>
+            <link>http://hubpointmedia.com/the-coal-hub/index.html</link>
+            <guid isPermaLink="false">7d97f009-68cb-4ae6-830c-b1275595c06e</guid>
+            <pubDate>Tue, 03 May 2016 14:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06c2788f-34ae-490c-bdb2-ec1a3c155030.jpg">]]></description>
-            <link>undefinedglobal-maritime-hub/index.html</link>
+            <link>http://hubpointmedia.com/global-maritime-hub/index.html</link>
             <guid isPermaLink="false">2c9a379a-0d7e-440c-a00d-facc950d7d28</guid>
             <pubDate>Tue, 03 May 2016 14:44:39 GMT</pubDate>
         </item>
